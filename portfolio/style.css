@@ -85,6 +85,14 @@ aside{
     color: black;
 }
 
+i{
+    transition: all .3s ease-in-out;
+}
+
+i:hover{
+    color: #4D4D4D;
+}
+
 @media screen and (max-width: 900px){
     main{
         display: flex;
